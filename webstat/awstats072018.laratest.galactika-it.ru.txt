@@ -1,0 +1,254 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.laratest.galactika-it.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2004                
+POS_TIME 2682                
+POS_VISITOR 5876                
+POS_DAY 6116                
+POS_DOMAIN 3192                
+POS_LOGIN 3420                
+POS_ROBOT 3575                
+POS_WORMS 3769                
+POS_EMAILSENDER 3900                
+POS_EMAILRECEIVER 4043                
+POS_SESSION 6221                
+POS_SIDER 6390                
+POS_FILETYPES 4178                
+POS_DOWNLOADS 4351                
+POS_OS 4419                
+POS_BROWSER 4485                
+POS_SCREENSIZE 4603                
+POS_UNKNOWNREFERER 4677                
+POS_UNKNOWNREFERERBROWSER 4764                
+POS_ORIGIN 4846                
+POS_SEREFERRALS 4978                
+POS_PAGEREFS 5122                
+POS_SEARCHWORDS 5270                
+POS_KEYWORDS 5422                
+POS_MISC 2346                
+POS_ERRORS 5481                
+POS_CLUSTER 3276                
+POS_SIDER_404 5567                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180718135744 15 3584 12305280464451
+FirstTime 20180717114323
+LastTime 20180718135725
+LastUpdate 20180719041930 15 0 15 0 0
+TotalVisits 4                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 2 2687
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 20 25 955807 5 7 7427
+12 14 24 1831491 0 5 1195
+13 8 13 1009163 0 2 478
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 42 62 3796461
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+yandex 2 2687 20180718000815 1
+unknown 1 330 20180717114323 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 4 35200 0 0
+png 8 1993736 0 0
+html 8 19261 0 0
+js 8 160548 0 0
+Unknown 10 24038 0 0
+woff2 24 1563678 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 2 0 616
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 25
+winnt 27
+win7 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+chrome67.0.3396.99 25
+chrome58.0.3029.110 27
+chrome65.0.3325.181 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 35 55
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+302 5 6858
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+195.238.108.3 20 25 955807 20180717115121
+77.243.107.110 17 27 2020741 20180718135725 20180718135724 /fonts/Ubuntu-Medium.woff2
+46.63.59.240 5 10 819913 20180717122702
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20180717 34 49 2787298 3
+20180718 8 13 1009163 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+15mn-30mn 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 8 19261 4 1
+/fonts/Lato-Regular.woff2 4 118424 0 0
+/fonts/Ubuntu-Regular.woff2 4 398700 0 0
+/fonts/Ubuntu-Medium.woff2 4 361804 0 0
+/fonts/OpenSans-Regular.woff2 4 201592 0 1
+/fonts/OpenSans-Bold.woff2 3 156702 0 0
+/loginUser 3 6463 0 0
+/fonts/OpenSans-SemiBold.woff2 3 157218 0 0
+/admin 3 8125 0 0
+/fonts/Ubuntu-Bold.woff2 2 169238 0 0
+/admin/order 2 4716 0 0
+/admin/createAccount 2 4734 0 1
+END_SIDER
